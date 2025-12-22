@@ -1,0 +1,24 @@
+{
+    "metric":"miewID",
+    "gpath":"gallery path/../",
+    "tpath":"train/path/...",
+    "sources":[
+        ["diptych","path/to/diptych"],
+        ["dreambooth","path/to"],
+        ["emu2","path/to"],
+        ["flux_kontext","path/to"],
+        ["ip_adapter","path/to"],
+        ["ip_adapter_plus", "path/to"],
+        ["OminiControl","path/to"]
+        ],
+    "ablation_settings":[
+        [15,10],
+        [25,10],
+        [10,10],
+        [100,10],
+        [10,1],
+        [10,5],
+        [10,20]
+
+    ]
+}

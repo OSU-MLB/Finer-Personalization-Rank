@@ -1,0 +1,16 @@
+{
+    "metric":"miewID",
+    "tpath":"path/to/train/csv",
+    "sources":[
+        ["diptych","/path/to/diptych/root"],
+        ["dreambooth","path/to"],
+        ["emu2","path/to"],
+        ["flux_kontext","path/to"],
+        ["ip_adapter","path/to"],
+        ["ip_adapter_plus", "path/to"],
+        ["OminiControl","path/to"]
+        ],
+    "gpaths":[["kmeans","path/to/gallery/kmeans"],
+        ["random","path/to/random/gallery"]
+        ]
+}

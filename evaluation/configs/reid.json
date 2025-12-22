@@ -1,0 +1,14 @@
+{
+    "metric":"miewID",
+    "sources":[
+        ["diptych","/path/to/Diptych/root"],
+        ["dreambooth","path/to"],
+        ["emu2","path/to"],
+        ["flux_kontext","path/to"],
+        ["ip_adapter","path/to"],
+        ["ip_adapter_plus", "path/to"],
+        ["OminiControl","path/to"]
+        ],
+    "prompt_type":"reid"
+    
+}
